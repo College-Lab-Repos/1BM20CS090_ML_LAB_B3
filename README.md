@@ -12,3 +12,7 @@ lab program 3: Candidiate-Elimination Algorithm on EnjoySpot and buy Dataset
 
 #Date: 29-04-2023
 lab program 4: Decision Tree Algorithm on Play Tennis dataset
+
+#Date: 12-05-2023
+lab program 5: Linear Regression on Height and Weight dataset
+
